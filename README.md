@@ -58,12 +58,12 @@ To replicate the analysis:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/hFuel-Text-Analysis.git
+   git clone https://github.com/yourusername/hFuel.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd hFuel-Text-Analysis
+   cd hFuel
    ```
 
 3. **Install Required Libraries:**
